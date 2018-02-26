@@ -1,0 +1,142 @@
+2017-11-15 21:03:17.102 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : SELECT * FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:17.151 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [79]
+2017-11-15 21:03:17.174 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : select op_content from t_option where op_question_id=?
+2017-11-15 21:03:17.175 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [79]
+2017-11-15 21:03:17.197 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : SELECT t_question.kprelative_id FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:17.198 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [79]
+2017-11-15 21:03:17.221  INFO 48740 --- [http-nio-8888-exec-7] e.e.y.s.r.service.impl.RedisServiceImpl  : Redis get success - 80, value:null
+2017-11-15 21:03:17.225 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : SELECT * FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:17.226 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [80]
+2017-11-15 21:03:17.251 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : select op_content from t_option where op_question_id=?
+2017-11-15 21:03:17.251 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [80]
+2017-11-15 21:03:17.277 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : SELECT t_question.kprelative_id FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:17.277 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [80]
+2017-11-15 21:03:17.298  INFO 48740 --- [http-nio-8888-exec-7] e.e.y.s.r.service.impl.RedisServiceImpl  : Redis get success - 81, value:null
+2017-11-15 21:03:17.303 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : SELECT * FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:17.303 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [81]
+2017-11-15 21:03:17.329 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : select op_content from t_option where op_question_id=?
+2017-11-15 21:03:17.330 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [81]
+2017-11-15 21:03:17.352 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : SELECT t_question.kprelative_id FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:17.353 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [81]
+2017-11-15 21:03:17.374  INFO 48740 --- [http-nio-8888-exec-7] e.e.y.s.r.service.impl.RedisServiceImpl  : Redis get success - 82, value:null
+2017-11-15 21:03:17.378 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : SELECT * FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:17.379 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [82]
+2017-11-15 21:03:17.404 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : select op_content from t_option where op_question_id=?
+2017-11-15 21:03:17.404 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [82]
+2017-11-15 21:03:17.428 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : SELECT t_question.kprelative_id FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:17.428 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [82]
+2017-11-15 21:03:17.456  INFO 48740 --- [http-nio-8888-exec-7] e.e.y.s.r.service.impl.RedisServiceImpl  : Redis get success - 83, value:null
+2017-11-15 21:03:17.461 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : SELECT * FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:17.461 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [83]
+2017-11-15 21:03:17.484 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : select op_content from t_option where op_question_id=?
+2017-11-15 21:03:17.484 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [83]
+2017-11-15 21:03:17.511 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : SELECT t_question.kprelative_id FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:17.511 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [83]
+2017-11-15 21:03:17.537  INFO 48740 --- [http-nio-8888-exec-7] e.e.y.s.r.service.impl.RedisServiceImpl  : Redis get success - 84, value:null
+2017-11-15 21:03:17.542 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : SELECT * FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:17.542 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [84]
+2017-11-15 21:03:17.566 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : select op_content from t_option where op_question_id=?
+2017-11-15 21:03:17.566 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [84]
+2017-11-15 21:03:17.589 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : SELECT t_question.kprelative_id FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:17.589 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [84]
+2017-11-15 21:03:17.611  INFO 48740 --- [http-nio-8888-exec-7] e.e.y.s.r.service.impl.RedisServiceImpl  : Redis get success - 85, value:null
+2017-11-15 21:03:17.616 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : SELECT * FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:17.617 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [85]
+2017-11-15 21:03:17.639 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : select op_content from t_option where op_question_id=?
+2017-11-15 21:03:17.639 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [85]
+2017-11-15 21:03:17.661 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : SELECT t_question.kprelative_id FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:17.661 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [85]
+2017-11-15 21:03:17.682  INFO 48740 --- [http-nio-8888-exec-7] e.e.y.s.r.service.impl.RedisServiceImpl  : Redis get success - 86, value:null
+2017-11-15 21:03:17.687 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : SELECT * FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:17.687 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [86]
+2017-11-15 21:03:17.711 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : select op_content from t_option where op_question_id=?
+2017-11-15 21:03:17.711 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [86]
+2017-11-15 21:03:17.737 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : SELECT t_question.kprelative_id FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:17.737 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [86]
+2017-11-15 21:03:17.758  INFO 48740 --- [http-nio-8888-exec-7] e.e.y.s.r.service.impl.RedisServiceImpl  : Redis get success - 87, value:null
+2017-11-15 21:03:17.763 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : SELECT * FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:17.763 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [87]
+2017-11-15 21:03:17.786 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : select op_content from t_option where op_question_id=?
+2017-11-15 21:03:17.786 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [87]
+2017-11-15 21:03:17.807 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : SELECT t_question.kprelative_id FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:17.807 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [87]
+2017-11-15 21:03:17.832  INFO 48740 --- [http-nio-8888-exec-7] e.e.y.s.r.service.impl.RedisServiceImpl  : Redis get success - 88, value:null
+2017-11-15 21:03:17.837 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : SELECT * FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:17.837 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [88]
+2017-11-15 21:03:17.859 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : select op_content from t_option where op_question_id=?
+2017-11-15 21:03:17.860 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [88]
+2017-11-15 21:03:17.882 DEBUG 48740 --- [http-nio-8888-exec-7] org.hibernate.SQL                        : SELECT t_question.kprelative_id FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:17.882 TRACE 48740 --- [http-nio-8888-exec-7] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [88]
+2017-11-15 21:03:26.986 DEBUG 48740 --- [http-nio-8888-exec-9] org.hibernate.SQL                        : SELECT qh_user_question_hist FROM t_user_question_hist WHERE qh_user_id=?
+2017-11-15 21:03:26.987 TRACE 48740 --- [http-nio-8888-exec-9] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [BIGINT] - [5]
+2017-11-15 21:03:27.010 DEBUG 48740 --- [http-nio-8888-exec-9] org.hibernate.SQL                        : SELECT t_question.kprelative_id FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:27.010 TRACE 48740 --- [http-nio-8888-exec-9] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [78]
+2017-11-15 21:03:27.032 DEBUG 48740 --- [http-nio-8888-exec-9] org.hibernate.SQL                        : SELECT qu_knowledge_point_id FROM t_question WHERE id=?
+2017-11-15 21:03:27.032 TRACE 48740 --- [http-nio-8888-exec-9] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [78]
+2017-11-15 21:03:27.055 DEBUG 48740 --- [http-nio-8888-exec-9] org.hibernate.SQL                        : SELECT t_question.std_answer FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:27.055 TRACE 48740 --- [http-nio-8888-exec-9] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [78]
+2017-11-15 21:03:27.077 DEBUG 48740 --- [http-nio-8888-exec-9] org.hibernate.SQL                        : SELECT t_question.kprelative_id FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:27.077 TRACE 48740 --- [http-nio-8888-exec-9] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [79]
+2017-11-15 21:03:27.100 DEBUG 48740 --- [http-nio-8888-exec-9] org.hibernate.SQL                        : SELECT qu_knowledge_point_id FROM t_question WHERE id=?
+2017-11-15 21:03:27.101 TRACE 48740 --- [http-nio-8888-exec-9] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [79]
+2017-11-15 21:03:27.122 DEBUG 48740 --- [http-nio-8888-exec-9] org.hibernate.SQL                        : SELECT t_question.std_answer FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:27.122 TRACE 48740 --- [http-nio-8888-exec-9] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [79]
+2017-11-15 21:03:27.144 DEBUG 48740 --- [http-nio-8888-exec-9] org.hibernate.SQL                        : SELECT t_question.kprelative_id FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:27.144 TRACE 48740 --- [http-nio-8888-exec-9] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [80]
+2017-11-15 21:03:27.165 DEBUG 48740 --- [http-nio-8888-exec-9] org.hibernate.SQL                        : SELECT qu_knowledge_point_id FROM t_question WHERE id=?
+2017-11-15 21:03:27.165 TRACE 48740 --- [http-nio-8888-exec-9] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [80]
+2017-11-15 21:03:27.186 DEBUG 48740 --- [http-nio-8888-exec-9] org.hibernate.SQL                        : SELECT t_question.std_answer FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:27.187 TRACE 48740 --- [http-nio-8888-exec-9] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [80]
+2017-11-15 21:03:27.208 DEBUG 48740 --- [http-nio-8888-exec-9] org.hibernate.SQL                        : SELECT t_question.kprelative_id FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:27.209 TRACE 48740 --- [http-nio-8888-exec-9] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [81]
+2017-11-15 21:03:27.230 DEBUG 48740 --- [http-nio-8888-exec-9] org.hibernate.SQL                        : SELECT qu_knowledge_point_id FROM t_question WHERE id=?
+2017-11-15 21:03:27.230 TRACE 48740 --- [http-nio-8888-exec-9] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [81]
+2017-11-15 21:03:27.252 DEBUG 48740 --- [http-nio-8888-exec-9] org.hibernate.SQL                        : SELECT t_question.std_answer FROM t_question WHERE t_question.id=?
+2017-11-15 21:03:27.252 TRACE 48740 --- [http-nio-8888-exec-9] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [81]
+2017-11-15 21:03:27.277 DEBUG 48740 --- [http-nio-8888-exec-9] org.hibernate.SQL                        : UPDATE t_user_question_hist SET qh_user_question_hist=? WHERE qh_user_id=?
+2017-11-15 21:03:27.277 TRACE 48740 --- [http-nio-8888-exec-9] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [VARCHAR] - [[{"kpId":5,"answer":"B","qid":3,"status":2},{"kpId":5,"answer":"C","qid":4,"status":2},{"kpId":5,"answer":"D","qid":5,"status":1},{"kpId":8,"answer":"A","qid":109,"status":2},{"kpId":8,"answer":"B","qid":110,"status":2},{"kpId":8,"answer":"C","qid":111,"status":1},{"kpId":8,"answer":"D","qid":112,"status":2},{"kpId":8,"answer":"B","qid":113,"status":2},{"kpId":2,"answer":"B","qid":33,"status":2},{"kpId":2,"answer":"C","qid":34,"status":2},{"kpId":2,"answer":"B","qid":35,"status":2},{"kpId":2,"answer":"A","qid":36,"status":2},{"kpId":5,"answer":"C","qid":70,"status":2},{"kpId":5,"answer":"undo","qid":71,"status":0},{"kpId":5,"answer":"D","qid":72,"status":2},{"kpId":5,"answer":"C","qid":73,"status":2},{"kpId":5,"answer":"B","qid":74,"status":2},{"kpId":5,"answer":"A","qid":75,"status":2},{"kpId":5,"answer":"C","qid":76,"status":2},{"kpId":5,"answer":"D","qid":77,"status":2},{"kpId":1,"answer":"A","qid":1,"status":1},{"kpId":1,"answer":"B","qid":2,"status":1},{"kpId":1,"answer":"B","qid":3,"status":1},{"kpId":1,"answer":"A","qid":4,"status":1},{"kpId":5,"answer":"C","qid":78,"status":2},{"kpId":5,"answer":"B","qid":79,"status":1},{"kpId":5,"answer":"D","qid":80,"status":2},{"kpId":5,"answer":"A","qid":81,"status":1}]]
+2017-11-15 21:03:27.277 TRACE 48740 --- [http-nio-8888-exec-9] o.h.type.descriptor.sql.BasicBinder      : binding parameter [2] as [BIGINT] - [5]
+2017-11-15 21:03:27.302 DEBUG 48740 --- [http-nio-8888-exec-9] org.hibernate.SQL                        : select kp_name from t_knowledge_point,t_question where t_knowledge_point.id=t_question.qu_knowledge_point_id AND t_question.id=?
+2017-11-15 21:03:27.303 TRACE 48740 --- [http-nio-8888-exec-9] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [81]
+2017-11-15 21:03:29.937 DEBUG 48740 --- [http-nio-8888-exec-1] org.hibernate.SQL                        : select subject0_.id as id1_8_, subject0_.sb_name as sb_name2_8_, subject0_.sb_shortcut as sb_short3_8_, subject0_.sb_title as sb_title4_8_ from t_subject subject0_
+2017-11-15 21:03:29.947 DEBUG 48740 --- [http-nio-8888-exec-1] org.hibernate.SQL                        : select grades0_.subjects as subjects1_8_0_, grades0_.grades as grades2_13_0_, grade1_.id as id1_1_1_, grade1_.g_name as g_name2_1_1_ from zx_grade_subject grades0_ inner join t_grade grade1_ on grades0_.grades=grade1_.id where grades0_.subjects=?
+2017-11-15 21:03:29.947 TRACE 48740 --- [http-nio-8888-exec-1] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [BIGINT] - [3]
+2017-11-15 21:03:29.957 DEBUG 48740 --- [http-nio-8888-exec-1] org.hibernate.SQL                        : select grades0_.subjects as subjects1_8_0_, grades0_.grades as grades2_13_0_, grade1_.id as id1_1_1_, grade1_.g_name as g_name2_1_1_ from zx_grade_subject grades0_ inner join t_grade grade1_ on grades0_.grades=grade1_.id where grades0_.subjects=?
+2017-11-15 21:03:29.957 TRACE 48740 --- [http-nio-8888-exec-1] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [BIGINT] - [2]
+2017-11-15 21:03:29.966 DEBUG 48740 --- [http-nio-8888-exec-1] org.hibernate.SQL                        : select grades0_.subjects as subjects1_8_0_, grades0_.grades as grades2_13_0_, grade1_.id as id1_1_1_, grade1_.g_name as g_name2_1_1_ from zx_grade_subject grades0_ inner join t_grade grade1_ on grades0_.grades=grade1_.id where grades0_.subjects=?
+2017-11-15 21:03:29.966 TRACE 48740 --- [http-nio-8888-exec-1] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [BIGINT] - [1]
+2017-11-15 21:03:30.004 DEBUG 48740 --- [http-nio-8888-exec-2] org.hibernate.SQL                        : SELECT * FROM t_knowledge_point WHERE kp_subject_id=?
+2017-11-15 21:03:30.005 TRACE 48740 --- [http-nio-8888-exec-2] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [BIGINT] - [1]
+2017-11-15 21:03:30.009 DEBUG 48740 --- [http-nio-8888-exec-2] org.hibernate.SQL                        : select subject0_.id as id1_8_0_, subject0_.sb_name as sb_name2_8_0_, subject0_.sb_shortcut as sb_short3_8_0_, subject0_.sb_title as sb_title4_8_0_, grades1_.subjects as subjects1_8_1_, grade2_.id as grades2_13_1_, grade2_.id as id1_1_2_, grade2_.g_name as g_name2_1_2_ from t_subject subject0_ left outer join zx_grade_subject grades1_ on subject0_.id=grades1_.subjects left outer join t_grade grade2_ on grades1_.grades=grade2_.id where subject0_.id=?
+2017-11-15 21:03:30.010 TRACE 48740 --- [http-nio-8888-exec-2] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [BIGINT] - [1]
+2017-11-15 21:03:30.029 DEBUG 48740 --- [http-nio-8888-exec-2] org.hibernate.SQL                        : SELECT qh_user_question_hist FROM t_user_question_hist WHERE qh_user_id=?
+2017-11-15 21:03:30.029 TRACE 48740 --- [http-nio-8888-exec-2] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [BIGINT] - [5]
+2017-11-15 21:03:30.050 DEBUG 48740 --- [http-nio-8888-exec-2] org.hibernate.SQL                        : select subject0_.id as id1_8_, subject0_.sb_name as sb_name2_8_, subject0_.sb_shortcut as sb_short3_8_, subject0_.sb_title as sb_title4_8_ from t_subject subject0_ where subject0_.id=?
+2017-11-15 21:03:30.050 TRACE 48740 --- [http-nio-8888-exec-2] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [BIGINT] - [1]
+2017-11-15 21:03:30.060 DEBUG 48740 --- [http-nio-8888-exec-2] org.hibernate.SQL                        : SELECT COUNT(*) FROM t_question,t_knowledge_point WHERE t_question.qu_knowledge_point_id= t_knowledge_point.id AND t_knowledge_point.id=?
+2017-11-15 21:03:30.061 TRACE 48740 --- [http-nio-8888-exec-2] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [11]
+2017-11-15 21:03:30.070 DEBUG 48740 --- [http-nio-8888-exec-2] org.hibernate.SQL                        : SELECT COUNT(*) FROM t_question,t_knowledge_point WHERE t_question.qu_knowledge_point_id= t_knowledge_point.id AND t_knowledge_point.id=?
+2017-11-15 21:03:30.070 TRACE 48740 --- [http-nio-8888-exec-2] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [12]
+2017-11-15 21:03:30.079 DEBUG 48740 --- [http-nio-8888-exec-2] org.hibernate.SQL                        : SELECT COUNT(*) FROM t_question,t_knowledge_point WHERE t_question.qu_knowledge_point_id= t_knowledge_point.id AND t_knowledge_point.id=?
+2017-11-15 21:03:30.079 TRACE 48740 --- [http-nio-8888-exec-2] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [13]
+2017-11-15 21:03:31.153 DEBUG 48740 --- [http-nio-8888-exec-3] org.hibernate.SQL                        : select subject0_.id as id1_8_, subject0_.sb_name as sb_name2_8_, subject0_.sb_shortcut as sb_short3_8_, subject0_.sb_title as sb_title4_8_ from t_subject subject0_
+2017-11-15 21:03:31.164 DEBUG 48740 --- [http-nio-8888-exec-3] org.hibernate.SQL                        : select grades0_.subjects as subjects1_8_0_, grades0_.grades as grades2_13_0_, grade1_.id as id1_1_1_, grade1_.g_name as g_name2_1_1_ from zx_grade_subject grades0_ inner join t_grade grade1_ on grades0_.grades=grade1_.id where grades0_.subjects=?
+2017-11-15 21:03:31.164 TRACE 48740 --- [http-nio-8888-exec-3] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [BIGINT] - [3]
+2017-11-15 21:03:31.176 DEBUG 48740 --- [http-nio-8888-exec-3] org.hibernate.SQL                        : select grades0_.subjects as subjects1_8_0_, grades0_.grades as grades2_13_0_, grade1_.id as id1_1_1_, grade1_.g_name as g_name2_1_1_ from zx_grade_subject grades0_ inner join t_grade grade1_ on grades0_.grades=grade1_.id where grades0_.subjects=?
+2017-11-15 21:03:31.177 TRACE 48740 --- [http-nio-8888-exec-3] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [BIGINT] - [2]
+2017-11-15 21:03:31.187 DEBUG 48740 --- [http-nio-8888-exec-3] org.hibernate.SQL                        : select grades0_.subjects as subjects1_8_0_, grades0_.grades as grades2_13_0_, grade1_.id as id1_1_1_, grade1_.g_name as g_name2_1_1_ from zx_grade_subject grades0_ inner join t_grade grade1_ on grades0_.grades=grade1_.id where grades0_.subjects=?
+2017-11-15 21:03:31.187 TRACE 48740 --- [http-nio-8888-exec-3] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [BIGINT] - [1]
+2017-11-15 21:03:31.225 DEBUG 48740 --- [http-nio-8888-exec-4] org.hibernate.SQL                        : SELECT * FROM t_knowledge_point WHERE kp_subject_id=?
+2017-11-15 21:03:31.225 TRACE 48740 --- [http-nio-8888-exec-4] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [BIGINT] - [1]
+2017-11-15 21:03:31.231 DEBUG 48740 --- [http-nio-8888-exec-4] org.hibernate.SQL                        : select subject0_.id as id1_8_0_, subject0_.sb_name as sb_name2_8_0_, subject0_.sb_shortcut as sb_short3_8_0_, subject0_.sb_title as sb_title4_8_0_, grades1_.subjects as subjects1_8_1_, grade2_.id as grades2_13_1_, grade2_.id as id1_1_2_, grade2_.g_name as g_name2_1_2_ from t_subject subject0_ left outer join zx_grade_subject grades1_ on subject0_.id=grades1_.subjects left outer join t_grade grade2_ on grades1_.grades=grade2_.id where subject0_.id=?
+2017-11-15 21:03:31.231 TRACE 48740 --- [http-nio-8888-exec-4] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [BIGINT] - [1]
+2017-11-15 21:03:31.251 DEBUG 48740 --- [http-nio-8888-exec-4] org.hibernate.SQL                        : SELECT qh_user_question_hist FROM t_user_question_hist WHERE qh_user_id=?
+2017-11-15 21:03:31.251 TRACE 48740 --- [http-nio-8888-exec-4] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [BIGINT] - [6]
+2017-11-15 21:03:31.271 DEBUG 48740 --- [http-nio-8888-exec-4] org.hibernate.SQL                        : select subject0_.id as id1_8_, subject0_.sb_name as sb_name2_8_, subject0_.sb_shortcut as sb_short3_8_, subject0_.sb_title as sb_title4_8_ from t_subject subject0_ where subject0_.id=?
+2017-11-15 21:03:31.271 TRACE 48740 --- [http-nio-8888-exec-4] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [BIGINT] - [1]
+2017-11-15 21:03:31.281 DEBUG 48740 --- [http-nio-8888-exec-4] org.hibernate.SQL                        : SELECT COUNT(*) FROM t_question,t_knowledge_point WHERE t_question.qu_knowledge_point_id= t_knowledge_point.id AND t_knowledge_point.id=?
+2017-11-15 21:03:31.281 TRACE 48740 --- [http-nio-8888-exec-4] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [11]
+2017-11-15 21:03:31.292 DEBUG 48740 --- [http-nio-8888-exec-4] org.hibernate.SQL                        : SELECT COUNT(*) FROM t_question,t_knowledge_point WHERE t_question.qu_knowledge_point_id= t_knowledge_point.id AND t_knowledge_point.id=?
+2017-11-15 21:03:31.292 TRACE 48740 --- [http-nio-8888-exec-4] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [12]
+2017-11-15 21:03:31.303 DEBUG 48740 --- [http-nio-8888-exec-4] org.hibernate.SQL                        : SELECT COUNT(*) FROM t_question,t_knowledge_point WHERE t_question.qu_knowledge_point_id= t_knowledge_point.id AND t_knowledge_point.id=?
+2017-11-15 21:03:31.303 TRACE 48740 --- [http-nio-8888-exec-4] o.h.type.descriptor.sql.BasicBinder      : binding parameter [1] as [INTEGER] - [13]
